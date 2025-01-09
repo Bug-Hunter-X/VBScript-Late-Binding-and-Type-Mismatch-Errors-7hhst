@@ -1,0 +1,1 @@
+Late Binding and Type Mismatches: VBScript's late binding can lead to runtime errors if you don't carefully check the type of variables or objects before using them.  For example, attempting to access a property or method on a variable that's Nothing or of the wrong type will cause an error.
